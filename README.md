@@ -1,16 +1,18 @@
-### Hi there 👋
-
-<!--
-**shiv325/shiv325** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Shivam
+- ## College Student
+- ## First Year (Second Semester)
+- ## College Name : Chandigarh Engineering College (CEC), Chandigarh Group of Colleges (CGC) Landran, Mohali
+- ## Branch : B. Tech. CSE
+- ## Languages Learnt :-
+1. Python
+2. HTML
+3. CSS
+4. MySQL
+5. Javascript
+6. C / C++ (Currently Learning)
+7. C# (Currently Learning)
+- ## Side Learnings :
+1. Communication Skills
+2. Personality Development
+3. Google Cloud
+4. Data Science & Analytics in Python
