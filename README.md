@@ -15,4 +15,6 @@
 1. Communication Skills
 2. Personality Development
 3. Google Cloud
-4. Data Science & Analytics in Python
+4. Data Science & Analytics in Python (Currently Learning)
+5. Data Structures & Algorithms (Currently Learning)
+6. FireBase (Currently Learning)
