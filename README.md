@@ -1,6 +1,6 @@
 # Shivam
 - ## College Student
-- ## First Year (Second Semester)
+- ## Second Year (3rd Semester)
 - ## College Name : Chandigarh Engineering College (CEC), Chandigarh Group of Colleges (CGC) Landran, Mohali
 - ## Branch : B. Tech. CSE
 - ## Languages Learnt :-
