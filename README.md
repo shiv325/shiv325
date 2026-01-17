@@ -1,6 +1,6 @@
 # Shivam
 - ## College Student
-- ## Second Year (3rd Semester)
+- ## 3<sup>rd</sup> Year (6th Semester)
 - ## College Name : Chandigarh Engineering College (CEC), Chandigarh Group of Colleges (CGC) Landran, Mohali
 - ## Branch : B. Tech. CSE
 - ## Languages Learnt :-
@@ -9,12 +9,16 @@
 3. CSS
 4. MySQL
 5. Javascript
-6. C / C++ (Currently Learning)
-7. C# (Currently Learning)
-- ## Side Learnings :
-1. Communication Skills
-2. Personality Development
-3. Google Cloud
-4. Data Science & Analytics in Python (Currently Learning)
-5. Data Structures & Algorithms (Currently Learning)
-6. FireBase (Currently Learning)
+6. C / C++
+7. PHP
+8. Java
+- ## Other Interests :
+1. Data Structures & Algorithms
+2. Database Management System (DBMS)
+3. Operating System
+4. Data Science
+5. Artificial Intelligence
+6. Machine Learning
+7. Google Cloud Platform (GCP)
+8. FireBase Console
+9. Application Programming Interfaces (APIs)
